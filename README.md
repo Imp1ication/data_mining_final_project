@@ -11,7 +11,7 @@
 
 | 檔案名稱                                               | 說明                    |
 | ------------------------------------------------------ | ----------------------- |
-| [data.csv](data.csv)                                   | 資料集                  |
+| data.csv                                               | 資料集                  |
 | [kmeans_analyze.py](kmeans_analyze.py)                 | K-Means類別性能分析腳本 |
 | [cluster_analyze.py](cluster_analyze.py)               | 資料集分群分析腳本      |
 | [scripts/kmeans.py](scripts/kmeans.py)                 | K-Means類別實做         |
