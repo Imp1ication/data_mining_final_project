@@ -9,13 +9,13 @@
 
 ### 零、主要檔案
 
-| 檔案名稱                                               | 說明                    |
-| ------------------------------------------------------ | ----------------------- |
-| data.csv                                               | 資料集                  |
-| [kmeans_analyze.py](kmeans_analyze.py)                 | K-Means類別性能分析腳本 |
-| [cluster_analyze.py](cluster_analyze.py)               | 資料集分群分析腳本      |
-| [scripts/kmeans.py](scripts/kmeans.py)                 | K-Means類別實做         |
-| [scripts/kmeans_example.py](scripts/kmeans_example.py) | K-Means類別使用範例     |
+| 檔案名稱                                                                                                                    | 說明                    |
+| --------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
+| data.csv                                                                                                                    | 資料集                  |
+| [kmeans_analyze.py](https://github.com/Imp1ication/data_mining_final_project/blob/master/kmeans_analyze.py)                 | K-Means類別性能分析腳本 |
+| [cluster_analyze.py](https://github.com/Imp1ication/data_mining_final_project/blob/master/cluster_analyze.py)               | 資料集分群分析腳本      |
+| [scripts/kmeans.py](https://github.com/Imp1ication/data_mining_final_project/blob/master/scripts/kmeans.py)                 | K-Means類別實做         |
+| [scripts/kmeans_example.py](https://github.com/Imp1ication/data_mining_final_project/blob/master/scripts/kmeans_example.py) | K-Means類別使用範例     |
 
 ### 一、專題實作目的
 
