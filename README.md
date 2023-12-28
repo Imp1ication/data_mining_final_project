@@ -1,7 +1,7 @@
 ## Data Mining Final Project - K-Means Clustering
 
 - <small>組別：第17組 學號：40947075s 姓名：張睿恩</small>
-- <small>專案 [Github repo](https://github.com/Imp1ication/data_mining_final_project-.git)</small>
+- <small>專案 [Github repo](https://github.com/Imp1ication/data_mining_final_project.git)</small>
 
 > 註：如果覺得pdf中的排版不甚美觀，可以到上方Github repo連結查看Markdown報告的網頁版。
 
